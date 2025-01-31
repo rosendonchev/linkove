@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,BNT1
-https://cdn11.stgledai.org/bnt/index.m3u8?token=c936d9e4ae0fd4c3bfc8816e83c2264acdac54d3-bd5599fe3a9977be68cf8d8473db6e21-1738340054-1738329254
-#EXTINF:-1,BNT2
-https://cdn13.stgledai.org/bnt2/index.m3u8?token=64e6f23a3df57abb67b0f3a4cbf41b8441c67839-f3ac86aec424b031084f9fb951b2cfa2-1738340067-1738329267
+https://cdn11.stgledai.org/bnt/index.m3u8?token=2f7d23158c359ea1d4b6b2747ac302f572c6ea04-6bdf5cd18c71f5838ae32bea2b7fcf5f-1738340670-1738329870
 #EXTINF:-1,BNT1
-https://cdn.stgledai.org:8082/hls/bnt/index.m3u8?token=c936d9e4ae0fd4c3bfc8816e83c2264acdac54d3-bd5599fe3a9977be68cf8d8473db6e21-1738340054-1738329254
+https://cdn.stgledai.org:8082/hls/bnt/index.m3u8?token=2f7d23158c359ea1d4b6b2747ac302f572c6ea04-6bdf5cd18c71f5838ae32bea2b7fcf5f-1738340670-1738329870
 #EXTINF:-1,BNT2
-https://cdn.stgledai.org:8082/hls/bnt2/index.m3u8?token=64e6f23a3df57abb67b0f3a4cbf41b8441c67839-f3ac86aec424b031084f9fb951b2cfa2-1738340067-1738329267
+https://cdn13.stgledai.org/bnt2/index.m3u8?token=d5c3d89685fc90efd0cf3db4c75ca49e80478672-5e4d80bb750620737e066a90821038ee-1738340684-1738329884
+#EXTINF:-1,BNT2
+https://cdn.stgledai.org:8082/hls/bnt2/index.m3u8?token=d5c3d89685fc90efd0cf3db4c75ca49e80478672-5e4d80bb750620737e066a90821038ee-1738340684-1738329884
