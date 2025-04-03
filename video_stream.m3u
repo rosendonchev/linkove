@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1,BNT1
-https://cdn8.stgledai.org/bnt/index.m3u8?token=36a8f2ff18bb64dfbcb918eec505fad05223a888-3ae74274c60b412469adf817637f172e-1743675423-1743664623
-#EXTINF:-1,Nova
-https://cdn9.stgledai.org/nova/index.m3u8?token=263b4f0781b951e6e05930db066537c26a0e5acc-91d8e99ce0c62ef9d0146b8cbedcfcfc-1743675436-1743664636
-#EXTINF:-1,bTV
-https://cdn10.stgledai.org/btv/index.m3u8?token=50d4bf1285e61a645a4db01b4ccbdae5d91a8f4b-6bae1d4bd12cd44c50bf7ba136abfa6f-1743675449-1743664649
 #EXTINF:-1,24kitchen
-https://cdn11.stgledai.org/24kitchen/index.m3u8?token=72f8967666f7e2f16de4a2483705b25a3e0e6900-34e6f6036315bd53bcca2015e782490a-1743675462-1743664662
+https://cdn9.stgledai.org/24kitchen/index.m3u8?token=59998f7c21c708ed36da8f7c785e8f0c9ad0034e-da2605b45e7ad2f72ad34af210e6797a-1743675663-1743664863
 #EXTINF:-1,Travel
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 #EXTINF:-1,The Voice
