@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,BNT1
-https://cdn13.stgledai.org/bnt/index.m3u8?token=783091c35c64e53957e958988e41b679dbd96b43-ebe886542b02d8b501d2aafb1e37a823-1743675063-1743664263
+https://cdn11.stgledai.org/bnt/index.m3u8?token=7d4028f3fea9e10fb69d1e20ad145f0cc7c65955-2b31ff89c0bd7ec983b407ad2e9f8f9e-1743675183-1743664383
 #EXTINF:-1,Nova
-https://cdn13.stgledai.org/nova/index.m3u8?token=cd80d36a768132375218e312beb772cc499b3832-1f0554b9d3bb2bd991d12194076e5efe-1743675075-1743664275
+https://cdn9.stgledai.org/nova/index.m3u8?token=1183967226793f3f0423b37146bde1caaa862fa1-e885cde927e6db734d6649f5e9d2053f-1743675195-1743664395
 #EXTINF:-1,bTV
-https://cdn10.stgledai.org/btv/index.m3u8?token=ff75b524f85abeb4fc0d5f718f48b40d0f40e27b-eee39031176d3677300683e0a7ab882c-1743675088-1743664288
+https://cdn8.stgledai.org/btv/index.m3u8?token=7289b0d09422af56b6fe200059cc4ee882d0b6b8-78b2e795391e7ee1e181c18355c84772-1743675208-1743664408
 #EXTINF:-1,24kitchen
-https://cdn11.stgledai.org/24kitchen/index.m3u8?token=fce88738c8cac5a0ab0a8473c1d1cdd23323a60c-61973c85be7860005e2678b93e342711-1743675101-1743664301
+https://cdn8.stgledai.org/24kitchen/index.m3u8?token=ad270488523b0063b2624d557bcacb71bca3e0e0-eb992a1e7ba1fb319bb2bbbccbd215c0-1743675221-1743664421
 #EXTINF:-1,Travel
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 #EXTINF:-1,The Voice
