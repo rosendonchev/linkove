@@ -35,7 +35,9 @@ https://cdn.gledaitv.top:8443/bnt_3_hd/tracks-v1a1/mono.ts.m3u8
 https://cdn.gledaitv.top:8443/bnt_4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Nova
 https://ro.glebul.com/dvr/hd-nova-tv-hd/tracks-v1a1/rewind-10800.m3u8
+#EXTINF:-1,Nova 8h
 https://ro.glebul.com/dvr/hd-nova-tv-hd/tracks-v1a1/rewind-28800.m3u8
+#EXTINF:-1,Nova 24h
 https://ro.glebul.com/dvr/hd-nova-tv-hd/tracks-v1a1/rewind-86400.m3u8
 #https://cdn.gledaitv.top:8443/nova_tv_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,bTV
