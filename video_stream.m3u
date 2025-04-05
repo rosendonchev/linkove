@@ -42,7 +42,8 @@ https://cdn.gledaitv.top:8443/btv_action_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,bTVCinema
 https://cdn.gledaitv.top:8443/btv_cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,bTVComedy
-https://cdn.gledaitv.top:8443/btv_comedy/tracks-v1a1/mono.ts.m3u8
+https://ro.glebul.com/dvr/btv-comedy/tracks-v1a1/rewind-28800.m3u8?e=1743886936&hash=Pztbc9l2Si_PY4GuPfNayA
+#https://cdn.gledaitv.top:8443/btv_comedy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,bTVStory
 https://cdn.gledaitv.top:8443/btv_story/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,BulgariaOnAir
