@@ -28,7 +28,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?ern
 #EXTINF:-1,BNT1
 https://ro.glebul.com/dvr/hd-bnt-1-hd/tracks-v1a1/rewind-10800.m3u8
 #EXTINF:-1,BNT2
-https://ro.glebul.com/dvr/hd-bnt-2-hd/tracks-v1a1/rewind-10800.m3u8
+https://ro.glebul.com/dvr/bnt-2/tracks-v1a1/rewind-10800.m3u8
 #EXTINF:-1,BNT3
 https://ro.glebul.com/dvr/hd-bnt-3-hd/tracks-v1a1/rewind-10800.m3u8
 #EXTINF:-1,BNT4
