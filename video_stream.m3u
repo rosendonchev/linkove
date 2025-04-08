@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,24kitchen
-https://cdn10.stgledai.org/24kitchen/index.m3u8?token=9a9c9f0e4375a4be9854eea9aa357cc4fe9456a5-93ead5806a3bad779e3b0a4f835966d2-1743676262-1743665462
+#EXTINF:-1,BNT1
+https://cdn9.stgledai.org/bnt/index.m3u8?token=32954872d9d93972a833235efb9f5a4900b698d1-66673bbb3be71fbd7a6348438317fc30-1744103740-1744092940
 #EXTINF:-1,Travel
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 #EXTINF:-1,The Voice
