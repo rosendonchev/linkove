@@ -141,6 +141,10 @@ https://ro.glebul.com/dvr/nicktoons/tracks-v1a1/playlist.m3u8
 https://ro.glebul.com/dvr/bloomberg-tv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,CodeFashion
 https://ro.glebul.com/dvr/hd-code-fashion-tv-hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,MTV '00
+https://cdn9.stgledai.org/mtv00s/index.m3u8?token=e0f693fe34d069871ea930c564d7dded52037d4b-0a2ad8dcbf317b5f40399fef65a60a2b-1744671045-1744660245
+#EXTINF:-1,MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,NHKWorld
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1,CGTN
